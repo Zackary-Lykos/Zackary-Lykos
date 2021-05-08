@@ -16,6 +16,8 @@ English Nickname: Zackary Lykos <br>
 90% J 86% J <br>
 78% A 76% A <br>
 
+DND Test: 混乱中立 Chaotic Neutral <br>
+
 
 🔊语言-Language: <br>
    - 中文 / English <br>
@@ -25,7 +27,7 @@ English Nickname: Zackary Lykos <br>
    - 存储服务器-NAS Server <br>
    - 墨水屏显示-Eink Display <br>
    - 游戏-Game <br>
-     - Factoro <br>
+     - Factorio <br>
      - Oxygen Not Included <br>
      - BeamNG.drive <br>
      - Rimworld <br>
