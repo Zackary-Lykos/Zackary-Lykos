@@ -2,7 +2,7 @@
 English Nickname: Zackary Lykos <br>
 
 🏛大学-University: Canada.Dalhousie University <br>
-  - 计算机工程-Bachelor of Computer Engineer <br>
+  - 计算机工程-Bachelor of Computer Engineering <br>
 
 📞联系方式-Contacts:<br>
   - 腾讯QQ: 2834351673; 微信: Zackary_Lykos;<br>
@@ -39,4 +39,4 @@ DND Test: 混乱中立 Chaotic Neutral <br>
 🛰理想-Ideal: <br>
   - RF Engineer <br>
   - 养只捷克狼犬-Get a Czechoslovakian Wolfdog <br>
-  - 有一个“狐朋狗友”-have a grade 7 (Highest Level in my mind) friend <br>
+  - 有一个“狐朋狗友”-have a grade 7 friend <br>
