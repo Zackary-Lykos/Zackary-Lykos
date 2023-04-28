@@ -11,7 +11,7 @@ English Nickname: Zackary Lykos <br>
   - 腾讯QQ: 2834351673; 微信: Zackary_Lykos;<br>
   - Discord: Zackary Lykos#2285; Messenger: m.me/Zackary.Lykos; Email(Non-Emergency only): Github@lykos.top <br>
 
-👀性格-Personality: ISTJ-A -> ISFJ-A -> ISFJ-A<br>
+👀性格-Personality: ISTJ-A -> ISFJ-A -> ISTJ-A<br>
   > Test1 Test2 Test3<br>
   86% I 74% I 58% I<br>
   62% S 73% S 71% S<br>
