@@ -12,7 +12,7 @@ English Nickname: Zackary Lykos <br>
   - Discord: Zackary Lykos#2285; Messenger: m.me/Zackary.Lykos; Email(Non-Emergency only): Github@lykos.top <br>
 
 👀性格-Personality: ISTJ-A -> ISFJ-A -> ISFJ-A<br>
-  > Test1 Test2 <br>
+  > Test1 Test2 Test3<br>
   86% I 74% I 58% I<br>
   62% S 73% S 71% S<br>
   58% T 58% F 58% T<br>
