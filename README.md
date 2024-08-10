@@ -12,12 +12,12 @@ English Nickname: Zackary Lykos <br>
   - Discord: Zackary Lykos#2285; Messenger: m.me/Zackary.Lykos; Email(Non-Emergency only): Github@lykos.top <br>
 
 👀性格-Personality: ISTJ-A -> ISFJ-A -> ISTJ-A<br>
-  > Test1 Test2 Test3<br>
-  86% I 74% I 58% I<br>
-  62% S 73% S 71% S<br>
-  58% T 58% F 58% T<br>
-  90% J 86% J 64% J<br>
-  78% A 76% A 76% A<br>
+  > Test1 Test2 Test3 Test4<br>
+  86% I 74% I 58% I 60% I<br>
+  62% S 73% S 71% S 53% S<br>
+  58% T 58% F 58% T 64% T<br>
+  90% J 86% J 64% J 84% J<br>
+  78% A 76% A 76% A 81% A<br>
 
 DND Test: 混乱中立 Chaotic Neutral <br>
 
