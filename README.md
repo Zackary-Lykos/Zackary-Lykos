@@ -7,9 +7,12 @@ English Nickname: Zackary Lykos <br>
 🎯硕士 - Master Degree: United_Kingdom.University of Edinburgh <br>
   - 电子工程 模拟与数字流 - Electronics Engineering Analogue and Digital Stream <br>
 
+💼工作 - China_BYD： Automotive Engineering Research Institute - Vehicle Integration Technology Development Center <br>
+  - 高级整车新技术集成工程师 Advanced Vehicle New Technology Integration Engineer
+  - 智能座舱硬件及算法研发 Intelligent Cockpit Hardware and Algorithm Research
+
 📞联系方式-Contacts:<br>
-  - 腾讯QQ: 2834351673; 微信: Zackary_Lykos;<br>
-  - Discord: Zackary Lykos#2285; Messenger: m.me/Zackary.Lykos; Email(Non-Emergency only): Github@lykos.top <br>
+  - 腾讯QQ: 2834351673; 微信: Zackary_Lykos; Email(Non-Emergency only): zackary.lykos@outlook.com <br>
 
 👀性格-Personality: ISTJ-A -> ISFJ-A -> ISTJ-A<br>
   > Test1 Test2 Test3 Test4<br>
@@ -23,7 +26,7 @@ DND Test: 混乱中立 Chaotic Neutral <br>
 
 🔊语言-Language: <br>
    - 中文 / English <br>
-   - C / C++ / JVM / ASM / VHDL / Verilog / Chisel / Python <br>
+   - C / C++ / JVM / ASM / VHDL / Verilog / Python / Java<br>
    
 😆兴趣-Interests: <br>
    - 存储服务器-NAS Server <br>
@@ -39,6 +42,4 @@ DND Test: 混乱中立 Chaotic Neutral <br>
    - <s>其他的比如听音乐爱看科幻小说啥的常见笼统兴趣就懒得写了</s> <br>
    
 🛰理想-Ideal: <br>
-  - IC Designer <br>
   - 养只捷克狼犬-Get a Czechoslovakian Wolfdog <br>
-  - 有一个“狐朋狗友”-have a grade 7 friend <br>
