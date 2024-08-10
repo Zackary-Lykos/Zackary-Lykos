@@ -7,9 +7,9 @@ English Nickname: Zackary Lykos <br>
 🎯硕士 - Master Degree: United_Kingdom.University of Edinburgh <br>
   - 电子工程 模拟与数字流 - Electronics Engineering Analogue and Digital Stream <br>
 
-💼工作 - China.BYD： Automotive Engineering Research Institute - Vehicle Integration Technology Development Center <br>
-  - 高级整车新技术集成工程师 Advanced Vehicle New Technology Integration Engineer
-  - 智能座舱硬件及算法研发 Intelligent Cockpit Hardware and Algorithm Research
+💼工作 - Work: China.BYD - Automotive Engineering Research Institute <br>
+  - 高级整车新技术集成开发工程师 Advanced Vehicle New Technology Integration Engineer
+  - 智能座舱硬件及算法研究 Intelligent Cockpit Hardware and Algorithm Research
 
 📞联系方式-Contacts:<br>
   - 腾讯QQ: 2834351673; 微信: Zackary_Lykos; Email(Non-Emergency only): zackary.lykos@outlook.com <br>
